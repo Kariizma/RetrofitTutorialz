@@ -5,10 +5,17 @@ public class Post
     private int userID;
 
     @SerializedName("id")
-    private int postID;
+    private Integer postID;
 
     private String title;
     private String body;
+
+    public Post(int userID, String title, String body)
+    {
+        this.userID = userID;
+        this.title = title;
+        this.body = body;
+    }
 
     public int getUserID() {
         return userID;

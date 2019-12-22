@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd565f1-df29-406d-a5fb-e195b7a7dee1" name="Default Changelist" comment="" />
+    <list default="true" id="3cd565f1-df29-406d-a5fb-e195b7a7dee1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Comments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JsonPlaceHolderApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JsonPlaceHolderApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/retrofitz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/retrofitz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JsonPlaceHolderApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JsonPlaceHolderApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Post.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/retrofitz$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/retrofitz$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/retrofitz.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/retrofitz.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +26,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -24,6 +37,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1V1xEWqtcOVPjf5HruVCQvzjEot" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -76,11 +90,27 @@
       <workItem from="1576434294365" duration="733000" />
       <workItem from="1576452302296" duration="25000" />
       <workItem from="1576532315387" duration="1019000" />
-      <workItem from="1576546408118" duration="3266000" />
+      <workItem from="1576546408118" duration="4514000" />
+      <workItem from="1576872256801" duration="9051000" />
+      <workItem from="1577028075206" duration="1979000" />
+      <workItem from="1577039415126" duration="1151000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
